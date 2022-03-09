@@ -3,11 +3,11 @@ def function1():
 
 
 def function2():
-    print("I'm now done with function 2 as well.")
+    print("I'm now done with function 2 as well!")
 
 
 def function3():
-    print("I provide the implementation for function 3")
+    print("I provide the implementation for function 3!")
 
 
 def function4():
