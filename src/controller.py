@@ -4,7 +4,6 @@ def function1():
 
 def function2():
     print("I'm now done with function two as well.")
-    pass
 
 
 def function3():
