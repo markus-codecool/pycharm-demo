@@ -1,0 +1,15 @@
+- show how to set up git integration with project on github
+
+- add function body to first function controller
+- commit and push
+- view in browser ( https://github.com/markus-codecool/pycharm-demo/blob/demobranch-2/src/controller.py )
+
+- change same function in browser
+- change other function in IDE
+- push via IDE -> conflicts should be resolved automatically
+
+- create merge conflict by editing same line in same file in browser and IDE
+- Edit some other lines as well
+- push via terminal
+- resolve conflicts via Pycharm
+
