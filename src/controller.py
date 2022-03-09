@@ -1,6 +1,5 @@
 def function1():
-    #  TODO implement this
-    pass
+    print("I\'m almost done with this function!")
 
 
 def function2():
