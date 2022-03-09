@@ -7,8 +7,7 @@ def function2():
 
 
 def function3():
-    #  TODO implement this
-    pass
+    print("I provide the implementation for function 3")
 
 
 def function4():
