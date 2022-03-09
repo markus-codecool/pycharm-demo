@@ -1,5 +1,5 @@
 def function1():
-    print("I\'m almost done with this function!")
+    print("I'm almost done with this function!")
 
 
 def function2():
