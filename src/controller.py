@@ -3,12 +3,12 @@ def function1():
 
 
 def function2():
-    print("I'm now done with function two as well.")
+    print("I'm now done with function 2 as well!")
     pass
 
 
 def function3():
-    print("I provide the implementation for function 3")
+    print("I provide the implementation for function 3!")
 
 
 def function4():
