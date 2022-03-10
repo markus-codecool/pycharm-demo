@@ -3,7 +3,7 @@ def function1():
 
 
 def function2():
-    print("It's function 2's implementation!")
+    print("# It's function 2's implementation!")
 
 
 def function3():
