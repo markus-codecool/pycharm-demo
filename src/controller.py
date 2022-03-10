@@ -3,7 +3,7 @@ def function1():
 
 
 def function2():
-    #  TODO implement this
+    print("It's the second function's implementation")
     pass
 
 
