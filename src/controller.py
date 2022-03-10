@@ -1,11 +1,9 @@
 def function1():
-    #  TODO implement this
-    pass
+    print("# It's the implementation for function 1!")
 
 
 def function2():
-    #  TODO implement this
-    pass
+    print("# It's function 2's implementation!")
 
 
 def function3():
